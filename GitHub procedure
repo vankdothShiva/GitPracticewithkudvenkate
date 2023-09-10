@@ -1,5 +1,15 @@
 for the first to connect with github with your local machine first follow the code 
 open the new folder or existance folder open the bash here,then enter this code
-git clone <--link-->, pass enter, it will work only for the first time 
+"git clone <--link-->", pass enter, it will work only for the first time 
+Then github repository file will save in local system 
+ "git pull" command is use to get the file from github repository
+
+"ls" command to use list we have in github repository
+"cat <---file name--->"it is use to display the file details
+if you want to edit the file and again update the file commit changes it save the edit file.
+
+
+
+
 
 
